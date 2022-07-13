@@ -5,7 +5,7 @@ Pros: Simple usage, pretty much pure JS, just imports D3
 `index.html`, `app.js` and `app.css` are from Kirsling's original code. 
 This version adds the Bootstrap framework.
 
-Also adds Ross's copyright message as a header to the above files, this is 
+Also adds Kirsling's copyright message as a header to the above files, this is 
 basically a share-and-share-alike type license.
 
 To see the graph editor work:
